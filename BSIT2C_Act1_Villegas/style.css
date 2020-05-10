@@ -1,0 +1,37 @@
+body{
+    background-color: darkslategray;
+}
+
+h1{
+    text-align: center;
+    font-family: "Ravie";
+    font-size: 80px;
+    color: darksalmon;
+}
+
+img{
+    width: 250px;
+    height: 250px;
+}
+a{
+    text-decoration: none;
+    font-family: 'Franklin Gothic Medium';
+    color: lightskyblue;
+}
+
+div{
+    text-align: center;
+}
+
+#love{
+    margin-left: 50px;
+}
+#tonight{
+    margin-left: 50px;
+}
+#get{
+    margin-left: 100px;
+}
+
+
+

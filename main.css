@@ -1,0 +1,36 @@
+body{
+    text-align: center;
+    background-color: darkslategray;
+}
+h1{
+    color: darksalmon;
+    font-family: Ravie;
+}
+h2{
+    font-size: 35px;
+    color: lightsalmon;
+    font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+}
+button{
+    width: 100px;
+    height: 45px;
+}
+a{
+    text-decoration: none;
+}
+
+#one{
+    margin-right: 900px;
+}
+#two{
+    margin-left: 900px;
+}
+#three{
+    margin-bottom: 50px;
+}
+#four{
+    margin-right: 520px;
+}
+#five{
+    margin-left: 520px;
+}

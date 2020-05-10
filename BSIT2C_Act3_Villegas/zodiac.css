@@ -1,0 +1,13 @@
+body{
+    text-align: center;
+    background-image: url(zodiac/cover.jpg) ;
+}
+h1{
+    font-family: Ravie;
+    font-size: 70px;
+    letter-spacing: 7px;
+    color: palevioletred;
+}
+#one{
+    margin-top: 80px;
+}

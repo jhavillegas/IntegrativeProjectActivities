@@ -1,0 +1,21 @@
+body{
+    background-color: darkslategray;
+}
+h1{
+    text-align: center;
+    font-family: "Ravie";
+    font-size: 80px;
+    color: darksalmon;
+}
+
+a{
+    text-decoration: none;
+    font-family: 'Franklin Gothic Medium';
+    color: lightskyblue;
+    font-size: 15px;
+}
+button{
+    margin-left: 500px;
+    width: 150px;
+    height: 50px;
+}
